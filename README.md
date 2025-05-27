@@ -1,7 +1,8 @@
 # 💫About Me :
 I'm Adarsh Chaturvedi, from Hyderbad ,India.
 - 📚 I'm a final year Engineering student.
-- 📚 I'm currently learning Frontend Technologies .
+- 📚 I'm currently learning Frontend Technologies.
+- 📚 I'm currently Working on my DSA.
 - 🔭 I’m actively Looking for a job role(Frontend ,Software development) . 
 
 ## 🌐Socials
