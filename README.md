@@ -1,7 +1,7 @@
 # 💫About Me :
 I'm Adarsh Chaturvedi, from Hyderbad ,India.
-- 📚 I'm a recent graduate(2025) looking for a job role.
-- 📚 I'm currently learning Frontend Technologies.
+- 📚 I'm a  graduate(2025) looking for a job role.
+- 📚 I'm currently learning Backend Technologies.
 - 📚 I'm currently Working on my DSA.
 - 🔭 I’m actively Looking for a job role(Frontend ,Software development) . 
 
